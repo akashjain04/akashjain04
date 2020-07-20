@@ -1,5 +1,5 @@
 # Akash Jain
-****
+
 ### Hi there 👋
 I'm Akash Jain, a passionate developer from India. I am currently a Pre final year student of Information Science and Engineering in NMAM Institue of Technology, Nitte. I love Programming. I am also a cloud computing enthusiast and I like developing web and Android applications.
 
@@ -16,7 +16,7 @@ I'm Akash Jain, a passionate developer from India. I am currently a Pre final ye
 - [FP Growth Algorithm](https://github.com/akashjain04/FPGrowthAlgorithm)
 - [Interview Preparation Kit - Hackerrank](https://github.com/akashjain04/Interview-Preparation-Kit)
 
-# 📫 How to reach me: ...
+### 📫 How to reach me: ...
 ****
 - Email jain.akash4304@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/akash-jain-mangalore/)
