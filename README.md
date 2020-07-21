@@ -3,7 +3,7 @@
 ### Hi there 👋
 I'm Akash Jain, a passionate developer from India. I am currently a Pre-final year student of Information Science and Engineering at NMAM Institue of Technology, Nitte. I love Programming. I am also a cloud computing enthusiast and I like developing web and Android applications.
 
-### My Projects
+### My Repositories
 ****
 - [Shop Management System](https://github.com/akashjain04/Shop-Management-System) 
 - [MyChatBot - Android ChatBot application](https://github.com/akashjain04/MyChatBot)
